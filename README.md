@@ -20,8 +20,10 @@ In this sample, we demonstrate
 - (Optional) Follow instructions [here](https://github.com/Microsoft/botbuilder-tools/tree/master/packages/QnAMaker) to set up the
 QnA Maker CLI to deploy the model.
 
-After deploy it will lock like this:- Final preview 
-[here](https://user-images.githubusercontent.com/91513738/163113869-2ef6aebe-530d-4499-9bea-20c70c4cf94f.png)
+After deploy it will lock like this:- Final preview
+
+![Screenshot 2022-04-13 114933](https://user-images.githubusercontent.com/91513738/163113869-2ef6aebe-530d-4499-9bea-20c70c4cf94f.png)
+
 
 ### Create a QnAMaker Application to enable QnA Knowledge Bases
 
